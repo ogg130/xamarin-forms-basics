@@ -1,0 +1,1 @@
+D:\repos\BethanysPieShop\BethanysPieShop.UWP\BethanysPieShop.UWP.csproj;x86
