@@ -161,6 +161,18 @@
     <BundleResource Include="pie.png" />
   </ItemGroup>
   <ItemGroup>
+    <BundleResource Include="settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="applepie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="applepiesmall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
     <BundleResource Include="basket.png" />
   </ItemGroup>
   <ItemGroup>

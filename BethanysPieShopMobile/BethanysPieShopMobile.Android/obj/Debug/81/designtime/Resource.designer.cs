@@ -2339,20 +2339,26 @@ namespace BethanysPieShopMobile.Droid
 			// aapt resource value: 0x7F090053
 			public const int abc_vector_test = 2131296339;
 			
+			// aapt resource value: 0x7F010002
+			public const int applepie = 2130771970;
+			
+			// aapt resource value: 0x7F010003
+			public const int applepiesmall = 2130771971;
+			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
 			
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
-			// aapt resource value: 0x7F010002
-			public const int basket = 2130771970;
-			
-			// aapt resource value: 0x7F010003
-			public const int bethanylogo = 2130771971;
-			
 			// aapt resource value: 0x7F010004
-			public const int contact = 2130771972;
+			public const int basket = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int bethanylogo = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int contact = 2130771974;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2372,11 +2378,11 @@ namespace BethanysPieShopMobile.Droid
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010005
-			public const int home = 2130771973;
+			// aapt resource value: 0x7F010007
+			public const int home = 2130771975;
 			
-			// aapt resource value: 0x7F010006
-			public const int icpie = 2130771974;
+			// aapt resource value: 0x7F010008
+			public const int icpie = 2130771976;
 			
 			// aapt resource value: 0x7F090054
 			public const int ic_audiotrack_dark = 2131296340;
@@ -3008,17 +3014,23 @@ namespace BethanysPieShopMobile.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
-			// aapt resource value: 0x7F010007
-			public const int patternwide = 2130771975;
+			// aapt resource value: 0x7F010009
+			public const int patternwide = 2130771977;
 			
-			// aapt resource value: 0x7F010008
-			public const int pie = 2130771976;
+			// aapt resource value: 0x7F010010
+			public const int pie = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int settings = 2130771985;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
 			
 			// aapt resource value: 0x7F09006A
 			public const int tooltip_frame_light = 2131296362;
+			
+			// aapt resource value: 0x7F010012
+			public const int web = 2130771986;
 			
 			static Drawable()
 			{

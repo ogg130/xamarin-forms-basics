@@ -4,5 +4,6 @@
     <SelectedDevice>Google Pixel 3 XL</SelectedDevice>
     <DefaultDevice>my_device92</DefaultDevice>
     <ProjectView>ShowAllFiles</ProjectView>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.Light.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

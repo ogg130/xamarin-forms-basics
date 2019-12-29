@@ -17,8 +17,12 @@ namespace BethanysPieShopMobile {
     public partial class MainView : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::BethanysPieShopMobile.MasterPageNavigationListView MasterView;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainView));
+            MasterView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::BethanysPieShopMobile.MasterPageNavigationListView>(this, "MasterView");
         }
     }
 }
