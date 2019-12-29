@@ -10,7 +10,22 @@ namespace BethanysPieShop
         {
             InitializeComponent();
 
-            MainPage = new GridPage();
+            //MainPage = new ContentPageView();
+            //MainPage = new NavigationPage(new NavigationPageView());
+            //MainPage = new NavigationPage(new TabbedPageView());
+            //MainPage = new MasterDetailPageView();
+            //MainPage = new CarouselPageView();
+            //MainPage = new ModalPageView();
+            //MainPage = new StackLayoutPage();
+            //MainPage = new LoginWithStackLayout();
+            //MainPage = new GridLayoutPage();
+            //MainPage = new NestedGridLayoutPage();
+            //MainPage = new LoginWithGridLayout();
+            //MainPage = new RelativeLayoutPage();
+            //MainPage = new LoginWithRelativeLayout();
+            //MainPage = new AbsoluteLayoutPage();
+            //MainPage = new ScrollViewPage();
+            MainPage = new FlexLayoutPage();
         }
 
         protected override void OnStart()

@@ -2005,11 +2005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\BethanysPieShop\\BethanysPieShop.Android\\BethanysPieShop.Android.csproj",
+      "projectUniqueName": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.Android\\BethanysPieShop.Android.csproj",
       "projectName": "BethanysPieShop.Android",
-      "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop.Android\\BethanysPieShop.Android.csproj",
+      "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.Android\\BethanysPieShop.Android.csproj",
       "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop.Android\\obj\\",
+      "outputPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2030,8 +2030,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
-              "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj"
+            "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj": {
+              "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj"
             }
           }
         }

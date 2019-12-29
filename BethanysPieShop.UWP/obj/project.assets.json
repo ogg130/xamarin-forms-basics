@@ -8001,11 +8001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\BethanysPieShop\\BethanysPieShop.UWP\\BethanysPieShop.UWP.csproj",
+      "projectUniqueName": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.UWP\\BethanysPieShop.UWP.csproj",
       "projectName": "BethanysPieShop.UWP",
-      "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop.UWP\\BethanysPieShop.UWP.csproj",
+      "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.UWP\\BethanysPieShop.UWP.csproj",
       "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop.UWP\\obj\\",
+      "outputPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8027,8 +8027,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
-              "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj"
+            "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj": {
+              "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj"
             }
           }
         }

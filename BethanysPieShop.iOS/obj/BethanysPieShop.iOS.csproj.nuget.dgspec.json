@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\BethanysPieShop\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj": {}
+    "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj": {}
   },
   "projects": {
-    "D:\\repos\\BethanysPieShop\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj": {
+    "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\BethanysPieShop\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj",
+        "projectUniqueName": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj",
         "projectName": "BethanysPieShop.iOS",
-        "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj",
+        "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.iOS\\BethanysPieShop.iOS.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop.iOS\\obj\\",
+        "outputPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
-                "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj"
+              "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj": {
+                "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "outputPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

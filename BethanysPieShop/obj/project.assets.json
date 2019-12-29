@@ -561,11 +561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\BethanysPieShop.csproj",
       "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\BethanysPieShop\\BethanysPieShop\\obj\\",
+      "outputPath": "D:\\repos\\xamarin-forms-basics\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
