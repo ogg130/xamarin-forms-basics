@@ -10,11 +10,10 @@
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type model:MasterNavigationItem}">
                     <model:MasterNavigationItem Title="Pies" Icon="pie.png" Target="{x:Type bethanysPieShopMobile:PieOverview}" />
-                    <!--<model:MasterNavigationItem Title="Settings" Icon="settings.png" Target="{x:Type bethanysPieShopMobile:SettingsView}" />-->
-                    <model:MasterNavigationItem Title="Settings" Icon="settings.png" Target="{x:Type bethanysPieShopMobile:SettingsTableView}" />
+                    <model:MasterNavigationItem Title="Settings" Icon="settings.png" Target="{x:Type bethanysPieShopMobile:SettingsView}" />
+                    <!--<model:MasterNavigationItem Title="Settings" Icon="settings.png" Target="{x:Type bethanysPieShopMobile:SettingsTableView}" />-->
                     <model:MasterNavigationItem Title="Contact" Icon="contact.png" Target="{x:Type bethanysPieShopMobile:ContactView}" />
                     <model:MasterNavigationItem Title="Our site" Icon="web.png" Target="{x:Type bethanysPieShopMobile:WebPageView}" />
-                    <model:MasterNavigationItem Title="Settings" Icon="settings.png" Target="{x:Type bethanysPieShopMobile:SettingsTableView}" />
                 </x:Array>
             </ListView.ItemsSource>
             <ListView.ItemTemplate>
@@ -22,11 +21,11 @@
                     <ViewCell>
                         <Grid Padding="5">
                             <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="30" />
+                                <ColumnDefinition Width="30"/>
                                 <ColumnDefinition Width="*" />
                             </Grid.ColumnDefinitions>
                             <Image Source="{Binding Icon}" />
-                            <Label Grid.Column="1" Text="{Binding Title}" />
+                            <Label Grid.Column="1" Text="{Binding Title}" Style="{StaticResource MediumLabelStyle}" />
                         </Grid>
                     </ViewCell>
                 </DataTemplate>

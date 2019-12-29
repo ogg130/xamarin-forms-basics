@@ -4,9 +4,9 @@
              x:Class="BethanysPieShopMobile.ContactView"
              BackgroundImage="patternwide.png">
     <StackLayout>
-        <Image Source="bethanylogo.png" HeightRequest="100" Margin="10" HorizontalOptions="Center" VerticalOptions="Center"></Image>
-        <Label Text="Send us a message" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
-        <Editor x:Name="MessageEditor" HeightRequest="200" TextColor="Black" FontSize="Small" IsSpellCheckEnabled="True" MaxLength="500" >
+        <Image Source="bethanylogo.png" Style="{StaticResource SmallLogoImageStyle}"></Image>
+        <Label Text="Send us a message" Style="{StaticResource TitleLabelStyle}"></Label>
+        <Editor x:Name="MessageEditor" Style="{StaticResource EditorStyle}">
             <Editor.Keyboard>
                 <Keyboard x:FactoryMethod="Create">
                     <x:Arguments>
@@ -25,6 +25,6 @@
             <Label Text="Should we contact you?"></Label>
             <Switch x:Name="ContactMeSwitch"  Toggled="ContactMeSwitch_OnToggled"></Switch>
         </StackLayout>
-        <Button Text="Send" HorizontalOptions="Center" VerticalOptions="Start" BackgroundColor="#22cfa7" x:Name="SendMessageButton" Clicked="SendMessageButton_OnClicked" TextColor="White"></Button>
+        <Button Text="Send" Style="{StaticResource RegularButtonStyle}" x:Name="SendMessageButton" Clicked="SendMessageButton_OnClicked" ></Button>
     </StackLayout>
 </ContentPage>

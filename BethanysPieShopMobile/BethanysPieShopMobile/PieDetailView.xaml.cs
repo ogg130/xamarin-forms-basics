@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using BethanysPieShopMobile.Model;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -42,9 +38,9 @@ namespace BethanysPieShopMobile
             InStockLabel.Text = pie.InStock ? "In stock" : "Not in stock";
 	    }
 
-	    private void AddToBasketButton_OnClicked(object sender, EventArgs e)
+	    private async void AddToBasketButton_OnClicked(object sender, EventArgs e)
 	    {
-	        throw new NotImplementedException();
-	    }
+	        await DisplayAlert("Success", "Pie added to your basket!", "Done");
+        }
 	}
 }
