@@ -1,1 +1,0 @@
-D:\repos\xamarin-forms-basics\BethanysPieShop.UWP\BethanysPieShop.UWP.csproj;x86
